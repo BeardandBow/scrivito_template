@@ -1,0 +1,2 @@
+class NavbarPageController < CmsController
+end
