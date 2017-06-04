@@ -1,0 +1,22 @@
+.image-section {
+  overflow: hidden;
+  position: relative;
+}
+
+.image-section .container {
+  width: 100%;
+  position: absolute;
+}
+
+.scrivito-text-position-top {
+  top: 0%;
+}
+
+.scrivito-text-position-middle {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.scrivito-text-position-bottom {
+  bottom: 0%;
+}
